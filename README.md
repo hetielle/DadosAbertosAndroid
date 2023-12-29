@@ -2,7 +2,7 @@
 
 Projeto básico desenvolvido consumindo dados da API Dados Abertos da Câmara de Deputados
 
-## Funcionalidades:
+## 📋 Funcionalidades:
 
 - Realizar cadastro com Firebase
 - Realizar login com Firebase
@@ -11,7 +11,7 @@ Projeto básico desenvolvido consumindo dados da API Dados Abertos da Câmara de
 - Visualizar o perfil de um partido com algumas informações sobre ele
 - Visualizar o perfil de um deputado com algumas informações sobre ele
 
-## Tecnologias utilizadas:
+## 🛠️ Tecnologias utilizadas:
 
 * Firebase
 * Java
